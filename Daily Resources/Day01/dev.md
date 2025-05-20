@@ -23,7 +23,7 @@ Today's topic walks through what your computer actually does behind the scenes �
 ### 📚 Resources
 
 **🎥 Main Video:**  
-[How C Programs Run – Source to Execution (Neso Academy)](https://www.youtube.com/watch?v=yz-zyMksGmw&pp=ygUoaG93IGEgYyBwcm9ncmFtIGlzIGNvbXBpbGVkIGFuZCBleGVjdXRlZA%3D%3D)
+[How C/C++ Program runs Behind the Scene?](https://www.youtube.com/watch?v=yz-zyMksGmw&pp=ygUoaG93IGEgYyBwcm9ncmFtIGlzIGNvbXBpbGVkIGFuZCBleGVjdXRlZA%3D%3D)
 
 **📖 Read:**  
 [Compilation Process in C – GeeksforGeeks](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)
