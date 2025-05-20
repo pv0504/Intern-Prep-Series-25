@@ -43,3 +43,5 @@ Resources for preparing for SDE interviews and tests for internships and placeme
 - Competitive Programming Resources: [ANCC's Summer of CP 2021](https://ancc-iitd.github.io/competitive-programming-resources/)
 - Companies List and Interview Experiences: [ChinmayMittal/IITD-CSE](https://github.com/ChinmayMittal/IITD-CSE/tree/main/3rd-year/internship-season)
 - Quant Preparation Resources: [Aniruddha-Deb/quant-prep](https://github.com/Aniruddha-Deb/quant-prep)
+- Compilation of Resources and Preparation Strategies by BSW: [BSW Career Portal](https://bswcareerportal.iitd.ac.in)
+- OCS' Guide to Preparation Materials and Strategies in various tracks: [Link to the Doc](https://owncloud.iitd.ac.in/nextcloud/index.php/s/3XW3mRbnbbm8YH9)
