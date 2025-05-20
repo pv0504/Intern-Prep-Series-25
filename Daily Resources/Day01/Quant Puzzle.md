@@ -47,14 +47,14 @@ Click below to toggle the explanation if you're stuck or want to check your answ
 Let’s define a function:
 
 
-f(A, B, C) = A + 2B + 2C mod 3
+f(A, B, C) = A + 2B + 3C mod 3
 
 
 ✅ This value stays constant through all valid collisions.
 
 Initial value:
 
-f(13, 15, 17) = 13 + 2×15 + 2×17 = 77 ≡ 2 mod 3
+f(13, 15, 17) = 13 + 2×15 + 3×17 = 94 ≡ 1 mod 3
 
 
 Now check each final state:
@@ -62,7 +62,7 @@ Now check each final state:
 - f(0, 45, 0) = 2×45 = 90 ≡ 0 mod 3 ❌
 - f(0, 0, 45) = 2×45 = 90 ≡ 0 mod 3 ❌
 
-None match the initial invariant (2 mod 3) ⇒ contradiction.
+None match the initial invariant (1 mod 3) ⇒ contradiction.
 
 So even though transformations seem to reduce fruit variety, we can’t reach any all-one-fruit state.
 
@@ -77,9 +77,9 @@ Let:
 
 From transformation rules:
 
-- Apple + Banana → 2 Cherries  
-- Banana + Cherry → 2 Apples  
-- Cherry + Apple → 2 Bananas  
+- (AB)Apple + Banana → 2 Cherries  
+- (BC)Banana + Cherry → 2 Apples  
+- (CA)Cherry + Apple → 2 Bananas  
 
 We derive:
 
