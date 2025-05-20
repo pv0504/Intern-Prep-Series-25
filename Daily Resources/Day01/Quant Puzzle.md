@@ -60,7 +60,7 @@ f(13, 15, 17) = 13 + 2×15 + 3×17 = 94 ≡ 1 mod 3
 Now check each final state:
 - f(45, 0, 0) = 45 ≡ 0 mod 3 ❌
 - f(0, 45, 0) = 2×45 = 90 ≡ 0 mod 3 ❌
-- f(0, 0, 45) = 2×45 = 90 ≡ 0 mod 3 ❌
+- f(0, 0, 45) = 3×45 = 135 ≡ 0 mod 3 ❌
 
 None match the initial invariant (1 mod 3) ⇒ contradiction.
 
