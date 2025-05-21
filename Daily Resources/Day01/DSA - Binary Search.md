@@ -1,4 +1,4 @@
-# 📘 DSA Problem of the Day – Binary Search Special (21/05/2025)
+# 📘 DSA Problem of the Day – Binary Search Special (22/05/2025)
 
 ## 🔍 Focus: Mastering Binary Search
 
