@@ -45,3 +45,4 @@ Resources for preparing for SDE interviews and tests for internships and placeme
 - Quant Preparation Resources: [Aniruddha-Deb/quant-prep](https://github.com/Aniruddha-Deb/quant-prep)
 - Compilation of Resources and Preparation Strategies by BSW: [BSW Career Portal](https://bswcareerportal.iitd.ac.in)
 - OCS' Guide to Preparation Materials and Strategies in various tracks: [Link to the Doc](https://owncloud.iitd.ac.in/nextcloud/index.php/s/3XW3mRbnbbm8YH9)
+- Internship Marathon Survival Guide: [Surviving the IITD Internship Marathon](https://chlorinated-sand-491.notion.site/Surviving-the-IITD-Internship-Marathon-1cc8f10a3c60802cbf80e0e00e934ddc)
