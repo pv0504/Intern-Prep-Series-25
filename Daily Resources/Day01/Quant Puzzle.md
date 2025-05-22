@@ -106,3 +106,11 @@ So again, impossible.
 - Invariants like f(A,B,C) mod 3 help prove impossibility in transformation problems.
 - Using algebraic constraints ensures no overlooked cases.
 - These puzzles are great practice for reasoning, modular arithmetic, and logic — crucial in quant interviews.
+
+## 🧩 Related Problems
+
+- [Three Piles Game](/puzzles/discrete/19)
+- [Chocolate and Wrappers](/puzzles/greedy/32)
+- [Light Switch Puzzle](/puzzles/discrete/120)
+- [Burning Rope Puzzle](/puzzles/logical/33)
+- [Two Water Jugs Problem](/puzzles/logical/17)
