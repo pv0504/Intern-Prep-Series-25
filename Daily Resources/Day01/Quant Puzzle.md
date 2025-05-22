@@ -107,4 +107,10 @@ So again, impossible.
 - Using algebraic constraints ensures no overlooked cases.
 - These puzzles are great practice for reasoning, modular arithmetic, and logic — crucial in quant interviews.
 
+## 🧩 Related Problems
 
+- [Three Piles Game](https://mindyourdecisions.com/blog/2014/02/10/monday-puzzle-three-piles-of-coins/)
+- [Chocolate and Wrappers](https://www.geeksforgeeks.org/puzzle-22-maximum-chocolates/)
+- [Light Switch Puzzle](https://brainstellar.com/puzzles/4/)
+- [Burning Rope Puzzle](https://brainstellar.com/puzzles/10/)
+- [Two Water Jugs Problem](https://brainstellar.com/puzzles/17/)
