@@ -71,6 +71,8 @@ Binary Search is a fundamental algorithm that enables efficient search operation
 
 📢 **Note:** Solutions to these problems will be released on **23/05/2025**. Stay tuned!
 
+**Update:** Solutions have been added in the folder **DSA-Binary Search Naswers**. Each question is solved in both **C++** and **Python**.
+
 Happy Coding! 🚀
 
 ---
