@@ -74,13 +74,7 @@ This puzzle is a great example of solving a problem *without knowing specific de
 
 ## 🧩 Bonus Puzzles
 
-### Level 1: Flipping Identity
-
-You have 10 coins in a line, each showing either heads or tails. You're allowed to flip exactly *3 consecutive coins* in one move. Is it possible to reach a state where *all coins are heads*, regardless of the starting configuration?
-
----
-
-### Level 2: Bag of Colored Balls
+### Level 1: Bag of Colored Balls
 
 A bag contains **20 blue balls** and **14 red balls**. Each time, you randomly take **two balls out** of the bag. (Assume each ball in the bag has an equal probability of being chosen.)
 
@@ -94,8 +88,9 @@ You have an **unlimited supply** of red and blue balls to add as needed.
 If you continue this process until **only one ball remains**, what will be the **color** of the **last ball** left in the bag?
 ---
 
-### Level 3: Balance Without Weighing
+### Level 2: Balance Without Weighing
 
 You have 12 coins. One of them has a different weight (heavier or lighter), but you don’t know which. You’re allowed *3 weighings* using a balance scale. Can you *identify the odd coin and whether it is heavier or lighter*?
 
 ---
+
