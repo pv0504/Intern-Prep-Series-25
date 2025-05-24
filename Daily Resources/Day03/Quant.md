@@ -86,7 +86,7 @@ You do **not** put the two balls you took out back into the bag.
 You have an **unlimited supply** of red and blue balls to add as needed.
 
 <span style="font-size: 12px;">
-If you continue this process until **only one ball remains**, what will be the **color** of the **last ball** left in the bag?
+If you continue this process until only one ball remains, what will be the color of the last ball left in the bag?
 </span>
 ---
 
