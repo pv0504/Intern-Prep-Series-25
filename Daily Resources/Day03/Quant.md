@@ -28,19 +28,29 @@ Now, if we **flip all the coins in the first pile**, all heads become tails and 
 
 To ensure that **both piles have the same number of heads after the flip**, we require:
 
-\[
-\text{Number of heads in flipped first pile} = \text{Number of heads in second pile}
-\]
+$$
+\text{Number of heads in flipped first pile} = n - m
+$$
 
-\[
+And the number of heads in the second pile remains:
+
+$$
+\text{Number of heads in second pile} = 20 - m
+$$
+
+To make the number of heads equal in both piles, we equate:
+
+$$
 n - m = 20 - m
-\]
+$$
 
 Simplifying gives:
 
-\[
+$$
 n = 20
-\]
+$$
+
+---
 
 So the trick is:
 
