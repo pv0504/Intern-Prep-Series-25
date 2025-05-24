@@ -14,6 +14,8 @@ At the end of their walk:
 **Question:**
 Must there have been a moment during their movement when all four bugs were on the same plane?
 
+**EUREKA**
+* The main point i learned was whenever the questions related to coplanar or meeting at some point was given, then you need to do using this type of method like IVT which helps in changing direction, one 
 ---
 
 ### 💡 Hints
