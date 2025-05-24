@@ -20,8 +20,7 @@ where $T(p)$ is the temperature at point $p$. Since temperature is a continuous 
 
 Note:
 
-* $f(p^*) = T(p^*) - T(p) = -f(p)$
-  So $f$ is an **odd function** on the circle.
+$$f(p^\*) = T(p^\*) - T(p) = -f(p)$$
 
 This means: if $f(p) > 0$, then $f(p^*) < 0$, and vice versa.
 By the **Intermediate Value Theorem**, a continuous function that changes sign must be zero somewhere.
