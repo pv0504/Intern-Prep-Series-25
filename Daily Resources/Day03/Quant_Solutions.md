@@ -51,13 +51,13 @@ Now compare (Second Weighing): 9, 10, 11 vs 1, 2, 3
   Compare any two among 9, 10, 11 in the third weighing to find the fake coin and its nature.
 
 ### Case 2: A ≠ B  
-Now Group A or B has the fake coin. Let's assume A is heavier. (Keep in mind this assumption to track if fake is heavier or lighter)
+Now Group A or B has the fake coin. Let's assume A is lighter. (Keep in mind this assumption to track if fake is heavier or lighter)
 
 Now compare (Second Weighing):  
-1, 5, 6 vs 2, 3, 7
+1,2,5  vs  3,6,9
 
-- If equal → Fake coin is 4 or 8.  
-  Compare 4 and 8 in the third weighing to find fake coin and its nature.
+- If equal → Fake coin is 4,7 or 8.  
+  Compare 7 and 8 in the third weighing to find fake coin and its nature.
 - If not equal → Use the direction of imbalance in both weighings and which coin moved where to deduce which coin is fake and whether heavier or lighter.
 
 Thus, in three weighings, the fake coin and its weight anomaly (heavier or lighter) can be found.
