@@ -32,8 +32,8 @@ Now simply, select a dish with $2^{n-1} - 1$ victories, remove that dish, along 
 
 What remains are $2^{n-1}$ dishes; by induction, we can find a list of length $n - 1$ which works for these remaining dishes. Then adding this dish described by this method to our menu recursively creates a list of length $n$ which works for all $2^n$ dishes.
 
-which is less than \( \binom{2^n}{2} \).
+which is less than $\binom{2^n}{2}$.
 
-Now simply, select a dish with \( 2^{n-1} - 1 \) victories, remove that dish, along with the \( 2^{n-1} - 1 \) dishes it beats.
+Now simply, select a dish with $$(2^{n-1} - 1)$$ victories, remove that dish, along with the $$(2^{n-1} - 1 )$$ dishes it beats.
 
-What remains are \( 2^{n-1} \) dishes; by induction, we can find a list of length \( n - 1 \) which works for these remaining dishes. Then adding this dish described by this method to our menu recursively creates a list of length \( n \) which works for all \( 2^n \) dishes.
+What remains are $$( 2^{n-1} )$$ dishes; by induction, we can find a list of length $$( n - 1 )$$ which works for these remaining dishes. Then adding this dish described by this method to our menu recursively creates a list of length $$( n )$$ which works for all $$( 2^n )$$ dishes.
