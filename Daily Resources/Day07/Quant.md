@@ -4,7 +4,7 @@
 
 ### 🤔 What’s the Puzzle?
 
-A new card game is available at a casino. It uses a standard deck of 8 cards, half of which are red and half black. The dealer will draw cards one by one, without returning them to the deck. You have the power to stop the game at any point.
+A new card game is available at a casino. It uses a deck of 8 cards, half of which are red and half black. The dealer will draw cards one by one, without returning them to the deck. You have the power to stop the game at any point.
 
 - Each time a red card is drawn, you win **$1**.
 - Each time a black card is drawn, you lose **$1**.
