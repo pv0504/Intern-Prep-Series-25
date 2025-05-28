@@ -125,13 +125,13 @@ Try to solve the following:
 
 - *Computer Organization and Design* by Patterson & Hennessy (Chapters on Memory Hierarchy)
 - [GeeksforGeeks - Cache Memory](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)
-- [CMU 15-213 Lecture Notes on Caching](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/lectures.html)
+- [CMU 15-213 Lecture Notes on Caching](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s11/www/index.html)
 
 ### Video
 
 - [David Black Schaffer's videos on Caches](https://www.youtube.com/@davidblack-schaffer1906/featured)
-- [Neso Academy - Cache Memory (YouTube Playlist)](https://youtube.com/playlist?list=PLBlnK6fEyqRg6Y2y4dJNRm3q3q3tU5aYh)
-- [Computerphile - How CPU Caches Work](https://www.youtube.com/watch?v=vA7PZ4b3Ce4)
-- [Gate Smashers - Cache Mapping Techniques](https://www.youtube.com/watch?v=7A5y3jN3QvU)
+- [Neso Academy - Cache Memory (YouTube Playlist)](https://youtu.be/Ez_kyBS-y5w?si=vFNvyghcZoxKhEeO)
+- [Computerphile - How CPU Caches Work](https://youtu.be/SAk-6gVkio0?si=VgtoGT8CJgNoA5cq)
+- [Gate Smashers - Cache Mapping Techniques](https://youtu.be/m1dA7D6c3C0?si=AJ-IeSfm8fruJ1gE)
 
 ---
