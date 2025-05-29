@@ -1,4 +1,4 @@
-# Expected Value and Optimal Stopping Strategy for the Card Game
+# Dynamic Card Game
 
 Let $$v(r,b)$$ be the expected value of the game for the player, assuming optimal play, where:
 - $$r$$: number of remaining red cards,
