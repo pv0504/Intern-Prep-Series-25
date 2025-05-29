@@ -34,6 +34,16 @@ The stopping rule is simple: Stop when $$v(r,b) = 0$$.
 - With probability $$\frac{r}{r+b}$$, a red card is revealed: score becomes $$+1 + v(r-1,b)$$.
 - With probability $$\frac{b}{r+b}$$, a black card is revealed: score becomes $$-1 + v(r,b-1)$$.
 
+## Table of Values
+
+| $$v(r,b)$$ | $$b=0$$ | $$b=1$$ | $$b=2$$ | $$b=3$$ | $$b=4$$ |
+|-----------|---------|---------|---------|---------|---------|
+| $$r=0$$   | 0.0000  | 0.0000  | 0.0000  | 0.0000  | 0.0000  |
+| $$r=1$$   | 1.0000  | 0.5000  | 0.0000  | 0.0000  | 0.0000  |
+| $$r=2$$   | 2.0000  | 1.3333  | 0.6667  | 0.2000  | 0.0000  |
+| $$r=3$$   | 3.0000  | 2.2500  | 1.5000  | 0.8500  | 0.3429  |
+| $$r=4$$   | 4.0000  | 3.2000  | 2.4000  | 1.6571  | 1.0000  |
+
 ## Optimal Stopping Strategy
 
 The player should stop when $$v(r,b) = 0$$. Based on the computed values, the optimal stopping strategy is:
