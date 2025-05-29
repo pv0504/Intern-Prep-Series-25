@@ -23,6 +23,8 @@ $$
 f(r,b) = \frac{r}{r+b}(1 + v(r-1, b)) + \frac{b}{r+b}(-1 + v(r, b-1))
 $$
 
+The stopping rule is simple: Stop when $$v(r,b) = 0$$.
+
 ### Explanation
 - If there are no red cards left ($$r = 0$$), the expected value is zero because no more positive points can be gained.
 - If there are red cards but no black cards ($$b = 0$$), the player is guaranteed to win every round, gaining +1 per red card. So $$v(r,0) = r$$.
