@@ -1,4 +1,4 @@
-# 🧠 Quant Puzzle – Day 8
+# 🧠 Quant Puzzle – Day 9
 
 ## 📌 Topic: Coins on the Chessboard
 
