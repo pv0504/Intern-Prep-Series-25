@@ -24,7 +24,7 @@ Let’s observe the pattern by reducing the problem.
 For a given `N x N` board:
 
 1. Focus on filling the **top-left (N-1) x (N-1)** portion of the board.
-2. Each of these `$(N-1)^2$` cells can independently be filled with a coin or left empty.
+2. Each of these $(N-1)^2$ cells can independently be filled with a coin or left empty.
 3. For **every configuration** of the `(N-1) x (N-1)` board, there is **exactly one unique way** to fill:
    - The rightmost column, and
    - The bottom row,
@@ -48,7 +48,7 @@ Hence, the number of valid configurations is:
 
 Here, `N = 8`
 
-So, Ans is $2^49$
+So, Ans is $2^(49)$
 
 ## 🧾 Summary
 
