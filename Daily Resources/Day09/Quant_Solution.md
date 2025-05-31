@@ -48,7 +48,7 @@ Hence, the number of valid configurations is:
 
 Here, `N = 8`
 
-So, Ans is $2^(49)$
+So, Ans is $2^{49}$
 
 ## 🧾 Summary
 
