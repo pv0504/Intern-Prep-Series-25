@@ -1,4 +1,4 @@
-# 🧠 Quant Puzzle – Day 8
+# 🧠 Quant Puzzle – Day 10
 
 ## 📌 Topic: Faulty Number Lock
 
