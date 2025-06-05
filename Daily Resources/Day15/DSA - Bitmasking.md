@@ -1,4 +1,4 @@
-# 🔐 DSA Problem of the Day – Bitmasking Special (DD/MM/2025)
+# 🔐 DSA Problem of the Day – Bitmasking Special (05/06/2025)
 
 ### 🎯 Focus: Mastering Bitmasking in Competitive Programming
 
