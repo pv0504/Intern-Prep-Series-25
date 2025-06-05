@@ -106,7 +106,7 @@ Understand binary representation, bit operations, and how they apply to sets and
 
 ## 📢 Note
 
-Solutions and explanations will be released on *DD/MM/2025*. Make sure to try them out yourself before that!
+Solutions and explanations will be released on *06/06/2025*. Make sure to try them out yourself before that!
 
 > 📞 For any doubts, reach out to me at *9873886151*  
 > 🧠 Happy Bitmasking! 🚀
