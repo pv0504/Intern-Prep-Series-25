@@ -11,8 +11,8 @@ If you take two numbers, say `k·x²` and `k·y²`, from `Sₖ`, then their prod
 so they can’t both be in our subset. On the other hand, two numbers from different `Sₖ`’s cannot have a square product since one of the two `k`’s will have a prime factor not found in the other, and that factor will appear an odd number of times in the product.
 
 Now, every number is in just one of these sets `Sₖ` — given `n`, you can recover the `k` for which `n ∈ Sₖ` by multiplying together one copy of each prime that appears with an odd exponent in the factorization of `n`. Between 1 and 30, the choices for `k` (i.e., the square-free numbers) are
-`1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 2×3, 2×5, 2×7, 2×9, 2×11, 2×13, 3×5, 3×7`, and finally `2×3×5`: **20 in all**.
-You can choose each `k` itself as the representative from `Sₖ`, so a subset of size **20** is achievable and best possible.
+`1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 2×3, 2×5, 2×7, 2×11, 2×13, 3×5, 3×7`, and finally `2×3×5`: **19 in all**.
+You can choose each `k` itself as the representative from `Sₖ`, so a subset of size **19** is achievable and best possible.
 
 ### No One Divides Another Case
 
