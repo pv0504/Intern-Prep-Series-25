@@ -1,4 +1,4 @@
-# 🧠 Quant Puzzle – Day 17
+# 🧠 Quant Puzzle – Day 20
 
 ## 📌 Topic: Coin Triplets
 
@@ -26,5 +26,7 @@ Think of modeling the problem using a **Markov chain** with states based on the 
 
 ---
 
+👉 *Solution drops tomorrow!*
+Stay tuned.
 
 ---
