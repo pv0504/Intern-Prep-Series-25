@@ -1,4 +1,4 @@
-##Solution
+## Solution
 
 First let's find the expected number of coin tosses to get either 
 HHH or 
