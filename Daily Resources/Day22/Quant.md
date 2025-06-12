@@ -1,4 +1,4 @@
-# 🧠 Quant Puzzle – Day 24
+# 🧠 Quant Puzzle – Day 22
 
 ## 📌 Topic: Even-sum Billiards
 
