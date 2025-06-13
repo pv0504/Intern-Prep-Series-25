@@ -3,20 +3,6 @@
 ## 🎯 Today's Learning Goal
 By the end of today, you'll understand neural network fundamentals and build your first working neural network from scratch!
 
-## ⏰ Time Schedule (8-10 hours total)
-
-### Morning Session (4 hours)
-- **9:00-10:30** - Core concepts and theory
-- **10:30-10:45** - Break
-- **10:45-12:00** - Mathematical foundations
-- **12:00-13:00** - Lunch break
-
-### Afternoon Session (4-6 hours)
-- **13:00-15:00** - Hands-on: Build perceptron from scratch
-- **15:00-15:15** - Break
-- **15:15-17:00** - Hands-on: MNIST neural network
-- **17:00-18:00** - Extensions and next steps (optional)
-
 ## 📚 Essential Concepts to Learn Today
 
 ### Core Building Blocks (1.5 hours)
