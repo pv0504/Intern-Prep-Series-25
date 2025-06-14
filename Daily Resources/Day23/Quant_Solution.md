@@ -2,15 +2,15 @@
 
 You can answer this question by assigning a variable $w$ to the probability of winning a game as White, and another variable $b < w$ to the probability of winning as Black — then doing some algebra.
 
-But here’s a **clever shortcut using coupling**.
+But here’s a clever shortcut using coupling.
 
-Imagine playing **four games** against Ioana, with the color sequence:
-**White, Black, White, Black**.
+Imagine playing four games against Ioana, with the color sequence:
+White, Black, White, Black.
 
-You still need to win **two in a row**, but you decide **in advance** to **ignore either the first or the last** game.
+You still need to win two in a row, but you decide in advance to ignore either the first or the last game.
 
-* **Ignoring the first game** is equivalent to playing the original 3-game sequence **BWB**.
-* **Ignoring the last game** is equivalent to playing **WBW**.
+* Ignoring the first game is equivalent to playing the original 3-game sequence **BWB**.
+* Ignoring the last game is equivalent to playing **WBW**.
 
 So we now compare the outcomes under a single experiment.
 
@@ -26,11 +26,11 @@ In both cases, you get two wins (one as White, one as Black), so they’re symme
 
 Thus, **XLWW is more likely** than WWLX.
 
-So you're better off ignoring the **first game** — that is, playing **Black in the first game**.
+So you're better off ignoring the first game — that is, playing Black in the first game.
 
 ### ✅ Final Answer:
 
 **No**, you shouldn't be happy.
-You’d have a better chance if you **started as Black**, i.e., played the **BWB** sequence.
+You’d have a better chance if you started as Black, i.e., played the **BWB** sequence.
 
 
