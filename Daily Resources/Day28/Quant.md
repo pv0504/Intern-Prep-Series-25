@@ -1,4 +1,4 @@
-# 🧠 Quant Puzzle – Day 20
+# 🧠 Quant Puzzle – Day 28
 
 ## 📌 Topic: Numbers on Foreheads
 
