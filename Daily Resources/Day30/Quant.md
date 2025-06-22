@@ -1,4 +1,4 @@
-# 🧠 Quant Puzzle – Day 29
+# 🧠 Quant Puzzle – Day 30
 
 ## 📌 Topic: Curves on Potatoes
 

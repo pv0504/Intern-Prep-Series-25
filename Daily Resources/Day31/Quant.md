@@ -1,4 +1,4 @@
-# 🧠 Quant Puzzle – Day 29
+# 🧠 Quant Puzzle – Day 31
 
 ## 📌 Topic: How long will it last?
 
