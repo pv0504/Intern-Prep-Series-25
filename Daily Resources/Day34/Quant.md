@@ -1,4 +1,4 @@
-# 🧠 Quant Puzzle – Day 33
+# 🧠 Quant Puzzle – Day 34
 
 ## 📌 Topic: Same Sum Subsets
 
