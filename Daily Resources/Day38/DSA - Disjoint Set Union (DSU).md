@@ -10,7 +10,7 @@ Union-Find (DSU) supports fast connectivity and component-merging operations. It
 
 - [CP-Algorithms: DSU — Union by Rank & Path Compression](https://cp-algorithms.com/data_structures/disjoint_set_union.html)  
 - [GeeksforGeeks: Disjoint Set Union (DSU) / Union Find](https://www.geeksforgeeks.org/disjoint-set-data-structures/)  
-- 📺 [YouTube: DSU Tutorial (Union-Find)]([https://www.youtube.com/watch?v=hmA9fuzBd2U](https://www.youtube.com/watch?v=aBxjDBC4M1U&pp=ygUSZGlzam9pbnQgc2V0IHVuaW9u))  
+- 📺 [YouTube: DSU Tutorial (Union-Find)](https://youtu.be/aBxjDBC4M1U?si=A_s_9cz9xwR22CIz)  
 
 ---
 
