@@ -8,9 +8,9 @@ Tries (prefix trees) enable fast insertion and lookup of strings or bit-patterns
 
 ## 📚 Learning Resources
 
-- [CP-Algorithms: Trie — Implementation & Applications](https://cp-algorithms.com/data_structures/trie.html)  
+- [CP-Algorithms: Trie — Implementation & Applications](https://cp-algorithms.com/string/aho_corasick.html)  
 - [GeeksforGeeks: Trie Data Structure](https://www.geeksforgeeks.org/trie-insert-and-search/)  
-- 📺 [YouTube: Trie Data Structure | Intuition & Code](https://www.youtube.com/watch?v=AXjmTQ8LEoI)  
+- 📺 [YouTube: Trie Data Structure | Intuition & Code](https://youtu.be/dBGUmUQhjaM?si=vMPBKjXF9nEnymai)  
 
 ---
 
